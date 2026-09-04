@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 60" width="250" height="60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&amp;family=Poppins:wght@800&amp;display=swap');
+      .brand-flash { font-family: 'Poppins', sans-serif; font-size: 34px; font-weight: 800; letter-spacing: -0.03em; fill: #12355B; }
+      .brand-guard { font-family: 'Poppins', sans-serif; font-size: 34px; font-weight: 800; letter-spacing: -0.03em; fill: #1976D2; }
+      .brand-sub { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 0.01em; fill: #788597; }
+    </style>
+  </defs>
+  <text x="0" y="34" class="brand-flash">FLASH</text>
+  <text x="105" y="34" class="brand-guard">GUARD</text>
+  <text x="1" y="52" class="brand-sub">Flash Flood Prediction System</text>
+</svg>
